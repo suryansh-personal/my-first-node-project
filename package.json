@@ -1,0 +1,19 @@
+{
+  "name": "suryansh-first-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryansh-personal/my-first-node-project.git"
+  },
+  "author": "Suryansh Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryansh-personal/my-first-node-project/issues"
+  },
+  "homepage": "https://github.com/suryansh-personal/my-first-node-project#readme"
+}
